@@ -1,0 +1,3 @@
+[flake8]
+exclude = .git, __pycache__, .venv, .env, .mypy_cache, .pytest_cache, .tox
+ignore = E501, W503
